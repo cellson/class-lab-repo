@@ -1,6 +1,6 @@
 ## Class Information
-- Name: [Your Name Here]  
-- Certification: [Your Certification Name Here]  
+- Name: Chris  
+- Certification: Android App Development  
 
 ## Instructions
 Please replace the placeholders with your details:
